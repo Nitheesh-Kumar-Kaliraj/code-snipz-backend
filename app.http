@@ -1,0 +1,9 @@
+POST http://localhost:3000/login
+
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFydW4iLCJpYXQiOjE3NjM5NjgwNTJ9.r46uoU1FJRDIUcT6HbhkrwtP1eesPh6HoMXQydTDxFs
+
+{
+    "username": "Arun",
+    "password": "arunnt2003"
+}
